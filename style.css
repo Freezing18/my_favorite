@@ -1,8 +1,11 @@
 body{
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("lionel-messi-graphic.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
-div{
-    margin-bottom: 20px;
+.header{
+    max-width: 400px;
 }
