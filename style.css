@@ -17,7 +17,7 @@ body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("messiBG.jpg");
+    background-image: url("PhotoImgs/messiBG.jpg");
 }
 
 
@@ -66,3 +66,4 @@ ul{
 ul, ul>*{
     font-size: 25px;
 }
+
